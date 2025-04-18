@@ -1,5 +1,5 @@
 # Auckland-s-Smart-City-Traffic-Optimization
-## **Business Task**
+## **Goal**
 Analyze and optimize Auckland's traffic using historical congestion and weather data to inform better city planning and traffic management decisions.
 ## **Data Set:**
 - NZTA Traffic Count Dataset
