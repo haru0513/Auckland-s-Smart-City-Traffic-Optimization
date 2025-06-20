@@ -1,4 +1,4 @@
-# Auckland　Smart City Traffic Optimisation
+# Auckland Smart City Traffic Optimisation
 ## **Goal**
 Analyse and optimise Auckland's traffic using historical congestion and weather data to inform better city planning and traffic management decisions.
 ## Why This Theme
